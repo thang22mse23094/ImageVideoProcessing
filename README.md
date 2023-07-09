@@ -1,2 +1,2 @@
-# ImageVideoProcessing
-Image Video Processing - Dr Nguyen Ngoc Truong Minh
+# DigitalImageAndVideoProcessing
+Digital Image and Video Processing - Dr Nguyen Ngoc Truong Minh
